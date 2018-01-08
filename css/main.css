@@ -1,0 +1,62 @@
+#cat-1 {
+margin-left: 367px;
+margin-top: 150px;
+
+}
+
+#cat-2 {
+  margin-left: 180px;
+  margin-top: 280px;
+
+}
+
+#cat-3 {
+  margin-left:125px;
+  margin-top: 300px;
+
+}
+
+.container > .row > .gatito-1 {
+  background-image: url(../assets/images/sunny-day.jpg);
+  background-position:center;
+  background-size: auto;
+  height: 600px;
+  width: 100%;
+
+}
+
+.container > .row > .gatito-2 {
+  background-image: url(../assets/images/night.jpg);
+  background-position:center;
+  background-size: cover;
+  height: 600px;
+  width: 75%;
+
+}
+
+.container > .row > .gatito-3 {
+  background-image: url(../assets/images/dawn.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 75%;
+
+}
+
+
+
+.col-1 {
+  width: 8.33%;
+}
+
+.col-2 {
+  width: 16.666%;
+}
+
+.col-3 {
+  width: 25%;
+}
+
+.col-4 {
+  width: 33.333%;
+}
